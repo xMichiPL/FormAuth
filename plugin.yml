@@ -1,0 +1,9 @@
+name: FormAuth
+main: dirouc\FormAuth\FormAuth
+version: "1.3.0"
+api: 3.0.0
+author: dirouc
+
+commands:
+  changepassword:
+    description: Allows changing account password.
